@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>REGISTRATION</title>
+    </head>
+    <body style="background-image: url('musicpic.jpg');background-repeat:no-repeat; background-size: 100% 100% ">
+        <h1 style= "font-family:georgia; color:white; text-align: center">REGISTRATION FORM</h1>
+        <hr style=
+          "height: 2px;
+           background: white;
+           margin: 20px 0;
+           box-shadow:0px 0px 4px 2px #ff9933"><br>
+        <table align='center'>
+            <tr>
+             <th style= "font-size: 20px; color:white"><label for="fname">FULL NAME</label></th>
+             <td style=' font-size: 20px;'>
+                 <input type="text" name="1">
+             </td>
+            </tr>
+
+            <tr>
+               <th style= "font-size: 20px; color:white"><label for="age">AGE</label></th>
+               <td style='font-size: 20px;'>
+                 <input type="number" name="2" min="0" max="100">
+               </td>
+            </tr>
+
+            <tr>
+               <th style= "font-size: 20px;color:white"><label for="EMAIL">EMAIL</label></th>
+               <td style='font-size: 20px;'>
+                 <input type="email" name="3" >
+               </td>
+            </tr>
+
+            <tr>
+               <th style= "font-size: 20px; color:white"><label for="password">PASSWORD</label></th>
+               <td style='font-size: 20px;'>
+                 <input type="password" name="4" >
+               </td>
+            </tr>
+
+            <tr>
+                <th style= "font-size: 20px; color:white"><label for="payment">PAYMENT<br>METHOD</label></th>
+               <td style="font-size: 20px; color:white">
+                   <select name="paymentmethod" id="name">
+                       <option name="visa">DEBIT CARD</option>
+                       <option name="credit">CREDIT CARD</option>
+                       <option name="upi">UPI</option>
+                   </select>                     
+               </td>
+            </tr><br>
+
+            <tr>
+                <th style= "font-size: 20px; color:white"><label for="ticket">TICKET<br>SEATING</label></th>
+               <td style="font-size: 20px; color:white">
+                   <input type="radio" name="4" >GENERAL - ?500<br>
+                   <input type="radio" name="4"> BRONZE - ?700<br>
+                   <input type="radio" name="4"> SILVER - ?1000<br> 
+                   <input type="radio" name="4" >PLATINUM - ?1500<br>
+                   <input type="radio" name="4"> VIP - ?2000<br>
+                   <input type="radio" name="4"> FAN-PIT- ?3000<br>
+               </td>
+            </tr>
+         
+        </table><br>
+ 
+    <center>
+        <img src="ticket.jpg" width="400" height="400" >
+    </center><br> 
+
+    <center>
+        <a href="fourthpage.html" target="_blank">
+        <button type="button" style="font-size: 20px">
+        PROCEED TO PAY
+        </button>
+        </a>
+    </center>  
+    </body>
+</html>

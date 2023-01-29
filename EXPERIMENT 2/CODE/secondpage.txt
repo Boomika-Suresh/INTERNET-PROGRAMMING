@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SINGERS</title>
+    </head>
+    <body style="background-image:url('concertpic.png'); background-repeat: no-repeat; background-size: 100% ">
+        <h1 style="font-family: fantasy; color:white; word-spacing: 450px">ARTISTS DISCOGRAPHY</h1>
+        <a href="https://en.wikipedia.org/wiki/Karthik_(singer)" target="_blank">
+            <img src="karthikcut.png" alt="alt" width="270" height="200"/>
+	</a>
+        <a href="https://en.wikipedia.org/wiki/Bombay_Jayashri" target="_blank">
+            <img src="bJayshri.png" alt="alt" width="270" height="200"/>           
+        </a>
+        
+        <a href="https://en.wikipedia.org/wiki/Vaaranam_Aayiram" target="_blank">
+            &nbsp;&nbsp;&nbsp;<img src="varanam1000.png" alt="alt" width="150" height="150"/></a>
+        <a href="https://en.wikipedia.org/wiki/Minnale" target="_blank">
+            &nbsp;&nbsp;<img src="minnale.jpg" alt="alt" width="150" height="150"/></a>
+        <a href="https://en.wikipedia.org/wiki/Bheemaa" target="_blank">
+            &nbsp;&nbsp;<img src="Bheema.jpg" alt="alt" width="150" height="150"/></a>
+        <a href="https://en.wikipedia.org/wiki/Majunu" target="_blank">
+            &nbsp;<img src="majnu.jpg" alt="alt" width="150" height="150"/></a>
+        
+        
+        <p style="color:wheat; text-indent: 95px; font-family: fantasy; word-spacing: 155px; font-size:22px">
+            KARTHIK BOMBAY-JAYSHRI   
+        </p><br>
+        
+        <a href="https://en.wikipedia.org/wiki/Anuradha_Sriram" target="_blank">
+            <img src="Anuradha.png" alt="alt" width="270" height="200"/>
+	</a>
+            <a href="https://en.wikipedia.org/wiki/Jonita_Gandhi" target="_blank">
+                <img src="jonita.png" alt="alt" width="270" height="200">            
+        </a>
+        
+        <a href="https://en.wikipedia.org/wiki/Ayan_(film)" target="_blank">
+            &nbsp;&nbsp;&nbsp;<img src="Ayan.jpg" alt="alt" width="150" height="150"/></a>
+        <a href="https://en.wikipedia.org/wiki/Ko_(film)" target="_blank">
+            &nbsp;&nbsp;<img src="ko.jpg" alt="alt" width="150" height="150"/></a>
+        <a href="https://en.wikipedia.org/wiki/Kovil_(film)" target="_blank">
+            &nbsp;&nbsp;<img src="kovil.jpg" alt="alt" width="150" height="150"/></a>
+        <a href="https://en.wikipedia.org/wiki/Unnale_Unnale" target="_blank">
+            &nbsp;&nbsp;<img src="unnale.jpg" alt="alt" width="150" height="150"/></a>
+        
+         <p style="color:wheat; text-indent: 55px; font-family: fantasy; word-spacing: 125px; font-size:22px">
+            ANURADHASRIRAM JONITAGANDHI      
+        </p><br>
+        
+        <a href="thirdpage.html" target="_blank"> 
+            <p style="text-indent: 350px; color:wheat; font-family: fantasy; font-size:50px">FOR REGISTRATION CLICK NOW!</p>
+        </a>
+        
+       
+                      
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Harris Jayaraj Concert</title>
+    </head>
+    <body 
+        style="background-image: url('Harris.jpg');
+        background-repeat: no-repeat;
+        height: 100%;      
+        background-size:cover;">
+        <h1 style="font-size: 60px; font-family: fantasy; text-align: center; color:white">HARRIS JAYARAJ<br>CONCERT !</h1>
+        <h2 style="font-size:40px; font-family: fantasy; text-align: center; color:white">IN MADURAI !<br>DATE: 02/02/2023<br></h2>
+        <h3 style="font-size:30px; text-align: center; color:white"><br><br>For details click below!</h3>
+        <a href="secondpage.html" target="_blank">
+            <p style="color:#ccccff; font-size:70px; font-family: fantasy; text-align:center">DETAILS</p>          
+        </a><br>
+        
+        
+        
+    </body>
+</html>
